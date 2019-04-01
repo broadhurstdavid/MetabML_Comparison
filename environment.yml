@@ -1,4 +1,4 @@
-name: MetabML
+name: metab
 channels:
 - defaults
 - conda-forge
