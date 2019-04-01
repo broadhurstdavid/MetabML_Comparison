@@ -23,7 +23,7 @@
 7. In 'Import New Enviroment', press the 'folder' icon and navigate to the 'environment.yml' file in the folder downloaded in step 2/3.
 8. Click Import and wait for the environment to install (note: may take 5-10 minutes)
 9. Return to the 'Home' tab
-10. Change 'Application on... base(root)' to 'Application on... BinderTutorial' (at the top)
+10. Change 'Application on... base(root)' to 'Application on... metab' (at the top)
 11. Press the 'Launch' button under the 'Jupyter Notebook' box
 12. Using the Notebook Dashboard, locate the downloaded folder in step 2/3 and open (double-click) on the 'Tutorial1.ipynb'.
 <br /><br />
@@ -36,7 +36,7 @@
 git clone https://github.com/KevinMMendez/BinderTutorial_Workflow
 cd MetabML_Comparison
 conda env create -f environment.yml
-source activate MetabML
+source activate metab
 jupyter notebook
 ```
 
