@@ -9,5 +9,5 @@ dependencies:
 - numpy=1.16.2
 - pandas=0.24.2
 - openpyxl=2.6.1
-- cimcb=0.0.4
+- cimcb=0.0.5
 - tornado=5.1.1
