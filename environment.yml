@@ -4,10 +4,11 @@ channels:
 - conda-forge
 - cimcb
 dependencies:
-- python=3.6.7
-- beakerx=1.3.0
-- numpy=1.16.2
-- pandas=0.24.2
-- openpyxl=2.6.1
-- cimcb=0.0.5
+- python
+- beakerx
+- numpy
+- pandas
+- openpyxl
+- cimcb
 - tornado=5.1.1
+- nomkl
